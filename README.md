@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sarah Mohamed
-- 👀 I’m interested in Learning programming for kids
+- 👀 I’m interested in CS Feild
 - 🌱 I’m currently learning Node JS & Machine Learning
 - 💞️ I’m looking to collaborate on more real projects
 - 📫 How to reach me email: saraamohamed0038@gmail.com
