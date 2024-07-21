@@ -1,11 +1,7 @@
-- 👋 Hi, I’m Sarah Mohamed
-- 👀 I’m interested in CS Feild
-- 🌱 I’m currently learning Node JS & Machine Learning
-- 💞️ I’m looking to collaborate on more real projects
-- 📫 How to reach me email: saraamohamed0038@gmail.com
-
-
-<!---
-sara-mohamd/sara-mohamd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ ## Welcome..
+ I'm Sara student at Computer Sience grade 3.
+ Currently mastering FrontEnd using advanced CSS and React Framework.
+ Studing BackEnd using next.js.
+ 
+ - 📫 How to reach me email: saraamohamed0038@gmail.com
+ - [My linkedin profile](https://www.linkedin.com/in/sara-mohamed-b8b668256/)
