@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/saraamuhmad" target="blank"><img src="https://img.shields.io/twitter/follow/saraamuhmad?logo=twitter&style=for-the-badge" alt="saraamuhmad" /></a> </p>
 
-- 🔭 I’m currently working on [CuisineCove](https://github.com/sara-mohamd/Recipe)
+- 🔭 I’m currently working on [RecipeHub](https://github.com/sara-mohamd/Recipe)
 
 - 🌱 I’m currently learning **TypeScript, ExpressJS**
 
